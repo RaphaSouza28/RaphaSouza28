@@ -4,7 +4,7 @@ Desenvolvedor web e estudante de **Análise e Desenvolvimento de Sistemas** na U
 Sou fundador da **Enlace Services**, onde crio sites e sistemas sob medida para negócios locais.
 
 - 🔭 Hoje trabalhando em um **sistema comercial desktop** (PDV, estoque e financeiro) com Electron + React + Prisma
-- 🌐 Faço sites institucionais e e-commerces para pequenas empresas
+- 🌐 Faço sites institucionais, sistemas web e e-commerces para pequenas empresas
 - 🎓 Também curso Nutrição — gosto de unir tecnologia e saúde
 - 📫 Contato: raphaelsa840@gmail.com
 
@@ -29,5 +29,6 @@ Sou fundador da **Enlace Services**, onde crio sites e sistemas sob medida para 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [Sistema Comercial](https://github.com/RaphaSouza28/Sistema-Comercial) | Sistema desktop offline para pequenas empresas: PDV, estoque, caixa, financeiro, relatórios e backup | Electron · React · TypeScript · Prisma · SQLite |
+| [Fahrenheit Tour](https://github.com/RaphaSouza28/fahrenheitour-case) | Site e painel administrativo de agência de viagens: páginas por país, mapas de roteiro, reservas e gestão de conteúdo · [ver site](https://fahrenheitour.com.br) | PHP · MySQL · Leaflet |
 | [Läut Premium Beer](https://raphasouza28.github.io/laut-beer/) | Landing page de chopp premium para festas em Viçosa, com planos, calculadora de pedido e WhatsApp | HTML · CSS · Bootstrap · JavaScript |
 | [Banco Enlace](https://github.com/RaphaSouza28/sistema-contas-bancarias-cpp) | Sistema de cadastro e gestão de contas bancárias em terminal (trabalho de INF101) | C++ |
